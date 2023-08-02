@@ -50,12 +50,15 @@ paginate     = 10
     identifier = "doom"
     name       = "Doom"
     url        = "/doom/"
+    weight     = 10
   [[menu.main]]
     identifier = "chaos"
     name       = "Chaos"
     url        = "/chaos"
+    weight     = 20
   [[menu.main]]
     identifier = "projects"
     name       = "Projects"
     url        = "/projects"
+    weight     = 30
   
