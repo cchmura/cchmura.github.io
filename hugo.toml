@@ -25,7 +25,7 @@ paginate     = 10
   images = [""]
 
 [taxonomies]
-    category = ""
+    category = "blog"
     tag      = "tags"
     series   = "series"
 
@@ -48,5 +48,5 @@ paginate     = 10
   # And you can even create generic menu
   [[menu.main]]
     identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+    name       = "Doom"
+    url        = "/doom"
