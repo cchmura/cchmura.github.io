@@ -1,5 +1,5 @@
 baseurl      = "https://hater.ink"
-title        = "Hater Inc ™"
+title        = "Hater Inc™"
 languageCode = "en-us"
 theme        = "hello-4s3ti"
 paginate     = 10
@@ -12,6 +12,7 @@ paginate     = 10
 
   # Subtitle for home
   homeSubtitle = "Hate as a service"
+  defaultTheme = "dark"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -38,7 +39,7 @@ paginate     = 10
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Hater Inc ™"
+      logoText = "Hater Inc™"
       logoHomeLink = "/"
     # or
     #
@@ -61,7 +62,9 @@ paginate     = 10
     name       = "Projects"
     url        = "/projects"
     weight     = 30
-  
+
 [params.logo]
-logoMark = "$"
+logoMark = ""
 logoCursorDisabled = true
+
+
