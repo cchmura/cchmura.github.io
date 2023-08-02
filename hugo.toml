@@ -62,6 +62,11 @@ unsafe = true
     url        = "/chaos"
     weight     = 20
   [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+    weight     = 25
+  [[menu.main]]
     identifier = "projects"
     name       = "Projects"
     url        = "/projects"
