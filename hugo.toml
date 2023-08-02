@@ -62,3 +62,6 @@ paginate     = 10
     url        = "/projects"
     weight     = 30
   
+[params.logo]
+logoMark = "$"
+logoCursorDisabled = true
