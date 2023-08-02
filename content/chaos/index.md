@@ -6,3 +6,5 @@ draft: false
 
 
 Would you like to know more?
+
+![Skiddy](/skiddy.jpg 'Yellow skiddy')
