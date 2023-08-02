@@ -49,4 +49,5 @@ paginate     = 10
   [[menu.main]]
     identifier = "blog"
     name       = "Doom"
-    url        = "/doom"
+    pageRef    = "/doom"
+    #url        = "/doom"
